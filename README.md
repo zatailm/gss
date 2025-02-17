@@ -14,7 +14,7 @@
 ---
 
 ## 📥 Download  
-🖥 **[Unduh Aplikasi di Sini](https://github.com/zatailm/gss/releases/tag/v1.0)**  
+🖥 **[Unduh Aplikasi di Sini](https://github.com/zatailm/gss/releases)**  
 
 ---
 
