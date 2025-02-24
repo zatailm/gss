@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/933523583.svg)](https://doi.org/10.5281/zenodo.14916821)
+
 # 📌 Google Scholar Scraper  
 
 🚀 **Google Scholar Scraper** adalah aplikasi portabel berbasis Python dan Tkinter yang digunakan untuk mengekstrak informasi publikasi dari **Google Scholar** berdasarkan nama penulis. Aplikasi ini membantu peneliti, akademisi, dan mahasiswa dalam mengumpulkan data publikasi dengan lebih cepat dan efisien.  
