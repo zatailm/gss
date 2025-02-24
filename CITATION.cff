@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Ilmam
+  given-names: MAZ
+orcid: https://orcid.org/0000-0002-6187-6829
+title:zatailm/gss: v1.1
+version: v1.1
+date-released: 2025-02-24
